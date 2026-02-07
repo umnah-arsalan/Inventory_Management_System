@@ -1,5 +1,5 @@
 # Inventory_Management_System
-Features we will build: 
+Features we have: 
 1. Add product
 2. View all products
 3. Search product
